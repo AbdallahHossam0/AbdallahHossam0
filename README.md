@@ -68,6 +68,5 @@ Feel free to reach out! Let's turn some bits into brilliance! 🚀✨
 
 Connect with me:
 - LinkedIn: [Abdallah Hossam](https://www.linkedin.com/in/abdallah-hossam-2a7123196/)
-- GitHub: [AbdallahHossam0](https://github.com/AbdallahHossam0/)
 
 Let the coding adventures begin! 🚀💻
