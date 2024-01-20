@@ -67,6 +67,6 @@
 Feel free to reach out! Let's turn some bits into brilliance! 🚀✨
 
 Connect with me:
-- LinkedIn: [Abdallah Hossam](https://www.linkedin.com/in/abdallah-hossam-2a7123196/)
+- LinkedIn: [Abdallah Hossam-Eldin](https://www.linkedin.com/in/abdallah-hossam-2a7123196/)
 
 Let the coding adventures begin! 🚀💻
