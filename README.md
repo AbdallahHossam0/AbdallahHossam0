@@ -1,4 +1,4 @@
-# Abdallah's Awesome README 🚀
+# Abdallah Hossam-Eldin Hosni Emam 🚀
 
 **Hello world!** I'm **Abdallah Hossam-Eldin Hosni**, an **Electronic and Communication Engineering graduate** with a flair for turning bits and bytes into magic! 👨‍🎓✨
 
