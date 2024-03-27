@@ -6,15 +6,17 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="center">Let's Connect</h2>
+<div align="center">
+  <img height="150" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
+</div>
 
 ###
 
-<br clear="both">
+<h2 align="left">Let's Connect</h2>
 
-<div align="center">
+###
+
+<div align="left">
   <a href="https://www.linkedin.com/in/abdallah-hossam-eldin-2a7123196/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -25,6 +27,10 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=00201125806095&color=25D366&logoColor=white&labelColor=154366&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="center">Technologies</h2>
 
 ###
 
@@ -66,11 +72,11 @@
 
 ###
 
-<img align="right" height="380" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
+<h2 align="center">Status</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdallahHossam0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="135" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=AbdallahHossam0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="135" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahHossam0&radius=2&theme=redical&area=false&order=5&hide_border=true&hide_title=false" height="217" alt="activity-graph graph"  />
