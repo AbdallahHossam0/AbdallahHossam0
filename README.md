@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">*Hello world!* I'm Abdallah Hossam-Eldin Hosni, an Electronic and Communication Engineering graduate with a flair for turning bits and bytes into magic! 👨‍🎓✨</p>
+<p align="center">Hello world! I'm Abdallah Hossam-Eldin Hosni, an Electronic and Communication Engineering graduate with a flair for turning bits and bytes into magic! 👨‍🎓✨</p>
 
 ###
 
